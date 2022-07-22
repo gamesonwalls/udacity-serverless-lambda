@@ -9,7 +9,7 @@
 			"name": "TODOs",
 			"item": [
 				{
-					"name": "Get all todos",
+					"name": "Get all todos items",
 					"request": {
 						"method": "GET",
 						"header": [
